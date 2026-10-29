@@ -34,6 +34,7 @@ Workspace para organizar projetos e tarefas de uma equipe criativa em quadros Ka
 | RNF-07 | Privacidade de erros | Respostas não retornam URI, hash, senha ou detalhes internos do banco |
 
 ## Executar localmente
+Aqui estão os passos para executar localmente o software:
 
 Requisitos: Node.js compatível com o Next.js instalado, npm e MongoDB local ou MongoDB Atlas.
 
